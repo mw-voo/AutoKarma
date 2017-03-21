@@ -26,7 +26,7 @@ Comes with 3 cvars to change certain settings:
 On first line of autokarma.lua, add groups retroactivtly to
 
 ```
-local rankcheck = {'moderator','admin','superadmin','owner'}
+local rankcheck = {'helper','moderator','admin','superadmin','owner'}
 ```
 
 to best suite your wishes. (Such as if the rank 'helper' should activate autokarma when a user of said rank is on.
