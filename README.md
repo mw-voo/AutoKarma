@@ -2,6 +2,7 @@
 
 
 Voodoo(STEAM_0:1:28607710)
+
 Adds a simple system in garrysmod to manage karma while an admin of allowed rank is currently on. 
 
 # To install
