@@ -14,13 +14,13 @@ Place in garrysMod\garrysmod\addons\
 Comes with 3 cvars to change certain settings:
 
 ###### Cvars
-
+```
 "autokarma_enable" , default value is "1" (On) -- Enables/Disables the entire system
 
 "autokarma_nokick" , default value is "1" (On) -- Enables/Disables the prevent karma kicking feature 
 
 "autokarma_notify" , default value is "1" (On) -- Enables/Disables notifying of would-be kicks if "autokarma_nokick" is on
-
+```
 ###### Other notes of interest
 
 On first line of autokarma.lua, add groups retroactivtly to
