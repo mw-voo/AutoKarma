@@ -1,4 +1,4 @@
-local rankcheck = {'moderator','admin','superadmin','owner'} --Ranks that enable autokarma, change to suite group names if ever changed. IE: superadmin becomes superbadmins
+local rankcheck = {'helper','moderator','admin','superadmin','owner'} --Ranks that enable autokarma, change to suite group names if ever changed. IE: superadmin becomes superbadmins
 
 CreateConVar("autokarma_enable", "1", {FCVAR_ARCHIVE,FCVAR_NOTIFY}) -- Convar to enable auto karma when a suffient rank is currently online
 CreateConVar("autokarma_nokick", "1", {FCVAR_ARCHIVE,FCVAR_NOTIFY}) -- Convar to enable no kicking when below threshold and an admin is online
