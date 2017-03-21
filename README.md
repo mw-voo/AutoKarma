@@ -7,7 +7,7 @@ Adds a simple system in garrysmod to manage karma while an admin of allowed rank
 
 # To install
 
-Place in garrysMod\garrysmod\addons\autokarma\
+Place in garrysMod\garrysmod\addons\
 
 # Notes: 
 
